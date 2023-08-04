@@ -1,0 +1,13 @@
+we are creating a calculator app and the first thing we have to do 
+1. Import the material.dart
+
+creating the void main function 
+create a stateless widget of the calacualtor and we have to return a materialApp() function  
+for home inside the materialApp function, we have to the home to simplecalculator widget
+
+
+
+
+
+In the stateful simplecalculator widgets,we return scafford 
+debugshowcheckedmodebanner
